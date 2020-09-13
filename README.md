@@ -10,7 +10,7 @@ const b=12;
 - JSON
 ```json
 {
-    name:1111,
+    "name":234234,
     val:sdfsdfs,
 }
 ```
